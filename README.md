@@ -87,6 +87,7 @@ docs/
   reports/
     cnn_accel_csynth.rpt   archived HLS synthesis report
     historical_csim.txt    archived C simulation output
+    Отчет_практика.pdf     complete practice report
 ```
 
 The weights header contains the quantized parameters used by the current CNN implementation.
@@ -130,6 +131,12 @@ Generated build outputs are excluded by `.gitignore`.
 The archived C simulation contains successful runs for digits 1, 7, 0, and 4. The archived HLS synthesis report records the synthesis estimates for the current line-buffer implementation.
 
 These files are retained under `docs/reports/` as reproducibility evidence for the current HLS implementation.
+
+## Project report
+
+The complete practice report describing the CNN architecture, HLS/RTL implementation, FPGA integration, experimental results, and convolution-core optimization is available here:
+
+[Practice report (PDF)](docs/reports/Отчет_практика.pdf)
 
 ## Scope
 
