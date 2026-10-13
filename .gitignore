@@ -1,0 +1,18 @@
+# Recreated Vivado HLS project and native builds
+/build/
+/cnn_accel/
+/.Xil/
+*.log
+*.jou
+*.str
+*.o
+*.obj
+*.exe
+*.zip
+*.wdb
+*.wcfg
+*.vcd
+/.vscode/
+/.idea/
+Thumbs.db
+Desktop.ini
